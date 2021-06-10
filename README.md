@@ -38,15 +38,18 @@ APEX : Java와 같은 객체지향 언어, 상세스펙은 위 apex 링크 확�
 
 
 - trailhead
-모듈 포함 여러 강의로 학습, 미션같은 거 수행하면 포인트나 뱃지 줌
+모듈 포함 여러 강의로 학습, 미션같은 거 수행하면 포인트나 뱃지 줌, 별도 설치 없이 웹상에서 실습가능,
+!!! 힘들게 수년전 유튜브 강의볼 필요없었음... !!!
 
+오히려 왜 유튜브 강의들이 오래되거나 알맹이가 없나 했더니, 이미 이곳모듈에서 학습의 거의모든것을 제공하는듯함.
+참고로, 비교적 최근 한국사이트가 개설된 것 같아, 최신 정보를 얻기 위해 열심히 들여다봤지만, 무료평가판 혹은 학습 탭은 애당초 접속조차 안된다든지 부족하거나 불안했음...
+개인적으로, 여러 여건상 지속적으로 한국 사이트는 불안정할것으로 예상
+
+아래 사이트 필수
 https://trailhead.salesforce.com/modules
 
-1단계)API basic
+1)API basic
 https://trailhead.salesforce.com/content/learn/modules/pw-api-basics
 
-
-기타 학습 링크
-https://developerforce.github.io/lightning-components-tutorial/setup-environment.html
-
-
+2)quick start : apex
+https://trailhead.salesforce.com/content/learn/projects/quickstart-apex
