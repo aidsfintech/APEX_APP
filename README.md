@@ -23,7 +23,7 @@ https://developer.salesforce.com/docs/atlas.en-us.apexcode.meta/apexcode/apex_de
 
 
 - 사용언어
-APEX Java와 같은 객체지향 언어, Lightning platform이 기본 개발환경으로 보이나, vscode 상 디버그도 가능해보임
+APEX : Java와 같은 객체지향 언어, Lightning platform이 기본 개발환경으로 보이나, vscode 상 디버그도 가능해보임
 무료평가판을 통해 UI 볼수 있고,!!!개발환경은 톱니바퀴 설정 클릭해서 developer console이 기본인듯함!! 다른 CRM 기능들과 함께 있음...
 * https://www.salesforce.com/kr/editions-pricing/platform/
 
@@ -34,5 +34,4 @@ https://trailhead.salesforce.com/modules
 기타 학습 링크
 https://developerforce.github.io/lightning-components-tutorial/setup-environment.html
 
-- 
-사용언어 APEX
+
