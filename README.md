@@ -28,13 +28,17 @@ https://developer.salesforce.com/docs/atlas.en-us.apexcode.meta/apexcode/apex_de
 기본적인 CRM 관련 항목들 확인 후
 !!!코딩 개발환경은 톱니바퀴 설정 클릭해서 developer console이 기본인듯함!!
 
+
 - 사용언어
-APEX : Java와 같은 객체지향 언어, Lightning platform이 기본 개발환경으로 보이나, vscode 상 디버그도 가능해보임
+APEX : Java와 같은 객체지향 언어, 상세스펙은 위 apex 링크 확인, Lightning platform이 기본 개발환경으로 보이나, vscode 상 디버그도 가능해보임
+
+
 
 - trailhead
 모듈 포함 여러 강의로 학습, 미션같은 거 수행하면 포인트나 뱃지 줌
 
 https://trailhead.salesforce.com/modules
+
 
 기타 학습 링크
 https://developerforce.github.io/lightning-components-tutorial/setup-environment.html
