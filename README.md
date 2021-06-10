@@ -2,7 +2,7 @@
  Customer Relationpship Management
  모든 부서가 실시간으로 중요 고객데이터에 접근가능,이를 통해 고객중심 서비스를 실현하는 방법
  
- 관련 유튜브 계쩡
+ 관련 유튜브 계정
  salesforce korea
  salesforce developers
  
@@ -18,8 +18,7 @@
 등
 
 ### 개발과 학습
-https://developer.salesforce.com/docs/atlas.en-us.apexcode.meta/apexcode/apex_dev_guide.htm
-참고
+https://developer.salesforce.com/docs/atlas.en-us.apexcode.meta/apexcode/apex_dev_guide.htm 참고, 바로 quick start
 
 - 개발
 가입하여 생성한 계정_hmldsfintech@rdevops.com_
