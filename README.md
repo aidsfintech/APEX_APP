@@ -38,7 +38,11 @@ APEX : Java와 같은 객체지향 언어, 상세스펙은 위 apex 링크 확�
 
 
 - trailhead
-모듈 포함 여러 강의로 학습, 미션같은 거 수행하면 포인트나 뱃지 줌, 별도 설치 없이 웹상에서 실습가능,
+모듈(이론으로 추정), 프로젝트(실습으로 추정)로 학습, 미션같은 거 수행하면 포인트나 뱃지 줌, 별도 설치 없이 웹상에서 실습가능!
+가령, 웹 상 develop console에서 클래스 생성하면 알아서 체크 후 포인트 줌! 진심 개쩝
+
+*trail은 연관된 모듈과 프로젝트를 패키지와해준것으로 보임
+
 !!! 힘들게 수년전 유튜브 강의볼 필요없었음... !!!
 
 오히려 왜 유튜브 강의들이 오래되거나 알맹이가 없나 했더니, 이미 이곳모듈에서 학습의 거의모든것을 제공하는듯함.
@@ -49,8 +53,14 @@ APEX : Java와 같은 객체지향 언어, 상세스펙은 위 apex 링크 확�
 
 https://trailhead.salesforce.com/modules
 
-1)API basic
-https://trailhead.salesforce.com/content/learn/modules/pw-api-basics
+### project
 
-2)quick start : apex
+1)quick start : apex
 https://trailhead.salesforce.com/content/learn/projects/quickstart-apex
+
+
+### Trail
+
+1)Build Great APIs and Integrations with MuleSoft
+https://trailhead.salesforce.com/en/content/learn/trails/great-integrations-mulesoft
+
