@@ -1,0 +1,16 @@
+// 편의상 txt로 저장했지만, 확장자를 .apxc로 하면 apex파일되고,
+// 이를 developer console에서 debug : Open Execute Anonymous Window 클릭 후 뜨는 창_일종의 main문을 따로 뺀 느낌_에서 실행하면 기존 DB에서 아래 설정대로 인스턴스 5개 가져옴
+// 그리고 이게 계정 창에 반영됨
+
+public class OlderAccountsUtility {
+    public static void updateOlderAccounts() {
+      // Get the 5 oldest accounts
+      Account[] oldAccounts = [SELECT Id, Description FROM Account ORDER BY CreatedDate ASC LIMIT 5];
+      // loop through them and update the Description field
+      for (Account acct : oldAccounts) {
+          acct.Description = 'Heritage Account';
+      }
+      // save the change you made
+      update oldAccounts;
+    }
+}
