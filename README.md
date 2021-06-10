@@ -1,3 +1,6 @@
+hmldsfintech@rdevops.com
+20210611 725 points
+
 # description 
  Customer Relationpship Management
  모든 부서가 실시간으로 중요 고객데이터에 접근하고 분석 가능,이를 통해 고객중심 서비스를 실현하는 방법
@@ -67,3 +70,7 @@ https://trailhead.salesforce.com/content/learn/projects/quickstart-apex
 1)Build Great APIs and Integrations with MuleSoft
 https://trailhead.salesforce.com/en/content/learn/trails/great-integrations-mulesoft
 
+2)Get Started as a Salesforce Business Analyst
+https://trailhead.salesforce.com/en/content/learn/trails/get-started-as-a-salesforce-business-analyst
+
+!! 기본기 습득 후, 세일즈 포스의 데이터 분석자 과정을 밟자! 
