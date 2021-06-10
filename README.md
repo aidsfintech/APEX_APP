@@ -21,11 +21,14 @@
 https://developer.salesforce.com/docs/atlas.en-us.apexcode.meta/apexcode/apex_dev_guide.htm 참고, 바로 quick start
 
 - 개발
-이메일로 가입하여 생성한 계정으로, hmldsfintech@rdevops.com
+이메일로 가입하여 생성한 계정으로, hmldsfintech@rdevops.com, https://www.salesforce.com/kr 접속, 뜨는 화면이 CRM
+(salesforce developer 사이트를 통해서도 로그인 후 사용가능, 다만 접근허용여부 묻는다)
+
+혹은
 
 무료평가판 접속,https://www.salesforce.com/kr/editions-pricing/platform/
 
-기본적인 CRM 관련 항목들 확인 후
+기본적인 CRM 관련 항목들 확인 후,
 !!!코딩 개발환경은 톱니바퀴 설정 클릭해서 developer console이 기본인듯함!!
 
 
