@@ -1,9 +1,10 @@
 # descriptioin 
  Customer Relationpship Management
- 모든 부서가 실시간으로 중요 고객데이터에 접근해서 이를 바탕으로 고객중심 서비스를 실현하는 경영 방법
+ 모든 부서가 실시간으로 중요 고객데이터에 접근가능,이를 통해 고객중심 서비스를 실현하는 방법
  
- 관련소스
- salesforce korea 유튜브 계정
+ 관련 유튜브 계쩡
+ salesforce korea
+ salesforce developers
  
 ## Salesforce 
 ### CRM 구현수단
@@ -21,6 +22,7 @@
 - 개발 공간확인(APEX GUIDE 기준)
 https://developer.salesforce.com/docs/atlas.en-us.apexcode.meta/apexcode/apex_dev_guide.htm
 
+hmldsfintech@rdevops.com
 
 - 사용언어
 APEX : Java와 같은 객체지향 언어, Lightning platform이 기본 개발환경으로 보이나, vscode 상 디버그도 가능해보임
