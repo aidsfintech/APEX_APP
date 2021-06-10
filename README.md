@@ -42,6 +42,9 @@ APEX : Java와 같은 객체지향 언어, 상세스펙은 위 apex 링크 확�
 
 https://trailhead.salesforce.com/modules
 
+1단계)API basic
+https://trailhead.salesforce.com/content/learn/modules/pw-api-basics
+
 
 기타 학습 링크
 https://developerforce.github.io/lightning-components-tutorial/setup-environment.html
