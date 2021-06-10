@@ -21,9 +21,10 @@
 https://developer.salesforce.com/docs/atlas.en-us.apexcode.meta/apexcode/apex_dev_guide.htm 참고, 바로 quick start
 
 - 개발
-가입하여 생성한 계정_hmldsfintech@rdevops.com_
+가입하여 생성한 계정, hmldsfintech@rdevops.com
 
 이후 무료평가판 접속,https://www.salesforce.com/kr/editions-pricing/platform/
+
 !!!개발환경은 톱니바퀴 설정 클릭해서 developer console이 기본인듯함!! 다른 CRM 기능들과 함께 있음...
 
 - 사용언어
