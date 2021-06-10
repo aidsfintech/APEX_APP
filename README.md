@@ -18,16 +18,17 @@
 등
 
 ### 개발과 학습
-
-- 개발 공간확인(APEX GUIDE 기준)
 https://developer.salesforce.com/docs/atlas.en-us.apexcode.meta/apexcode/apex_dev_guide.htm
+참고
 
-hmldsfintech@rdevops.com
+- 개발
+가입하여 생성한 계정_hmldsfintech@rdevops.com_
+
+이후 무료평가판 접속,https://www.salesforce.com/kr/editions-pricing/platform/
+!!!개발환경은 톱니바퀴 설정 클릭해서 developer console이 기본인듯함!! 다른 CRM 기능들과 함께 있음...
 
 - 사용언어
 APEX : Java와 같은 객체지향 언어, Lightning platform이 기본 개발환경으로 보이나, vscode 상 디버그도 가능해보임
-무료평가판을 통해 UI 볼수 있고,!!!개발환경은 톱니바퀴 설정 클릭해서 developer console이 기본인듯함!! 다른 CRM 기능들과 함께 있음...
-* https://www.salesforce.com/kr/editions-pricing/platform/
 
 - trailhead
 모듈 포함 여러 강의로 학습, 미션같은 거 수행하면 포인트나 뱃지 줌
