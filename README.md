@@ -1,12 +1,15 @@
 hmldsfintech@rdevops.com
-20210611 725 points
+
+20210616 800 points
 
 # description 
  Customer Relationpship Management
  모든 부서가 실시간으로 중요 고객데이터에 접근하고 분석 가능,이를 통해 고객중심 서비스를 실현하는 방법
  
  관련 유튜브 계정
+ 
  salesforce korea
+ 
  salesforce developers
  
 ## Salesforce 
