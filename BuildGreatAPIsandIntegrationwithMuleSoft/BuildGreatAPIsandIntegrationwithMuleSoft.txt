@@ -1,0 +1,26 @@
+# step1; Anypoint plaftorm 가입하기
+ 설명에 따라서 가입하고 넘어가면됨.
+
+## MuleSoft Anypoint Platform
+ 학습한 API specification을 바탕으로, 이 툴을 통해 building data integrations를 한다고 함.
+
+## API spec
+ api specification, 네이버개발자 사이트 들어가면 나오는 설명들, 이걸 바탕으로 http 메세지가 생성될듯
+
+- API behaviors
+- fundamental design philosopy
+- supported data types
+
+
+# step2; Anypoint plaftorm에서 API spec 작성하기
+
+api spec과 design center 사이 관계 관련링크
+https://realapril.tistory.com/24
+=> api spec 이란 게, 단순히 한글로 설명된 사용설명서가 아니라, 마치 자바의 클래스_api spec_와 인스턴스_http msg_ 관계인듯
+* mocking service 일단 간단하게 서버 api 미리 테스트하는것, talend api로 로컬상에서 http 메세지 날려보는것인듯
+
+## Send a Request to mocking service
+ talend나 postman처럼 메세지 보내보면 200 뜨고 응답받음
+
+# step 3; publish the api spec
+내가 만든 api spec이 뮬레소프트 서버에 업로드 된것으로 보인다.
