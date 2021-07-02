@@ -1,3 +1,5 @@
+*추후 Appdev,crm_dev와 함께 ITservice로 통합예정
+
 hmldsfintech@rdevops.com
 
 20210616 800 points
